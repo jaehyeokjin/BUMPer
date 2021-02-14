@@ -9,12 +9,12 @@ BUMPer is pairwise bottom-up CG water model that includes an effectively project
 This work is based on the following two-series papers. Please refer to them for more detail. Also, if you use BUMPer in your publications, please cite the following references.
 
 (1) **BUMPer theory**
-> Jaehyeok Jin, Yining Han, Alexander J. Pak, Gregory A. Voth, "A new one-site coarse-grained model for water: Bottom-up many-body projected water (BUMPer). I. General theory and model," _Journal of Chemical Physics_, **154**, 044104 (2021).
+> Jaehyeok Jin, Yining Han, Alexander J. Pak, and Gregory A. Voth, "A new one-site coarse-grained model for water: Bottom-up many-body projected water (BUMPer). I. General theory and model," _Journal of Chemical Physics_, **154**, 044104 (2021).
 
 [![DOI](https://img.shields.io/badge/J.Chem.Phys.-10.1063/5.0026651-FA8072.svg)](https://doi.org/10.1063/5.0026651)
 
 (2) **Temperature transferable BUMPer**
-> Jaehyeok Jin, Yining Han, Alexander J. Pak, Gregory A. Voth, "A new one-site coarse-grained model for water: Bottom-up many-body projected water (BUMPer). II. Temperature transferability and structural properties at low temperature," _Journal of Chemical Physics_, **154**, 044105 (2021).
+> Jaehyeok Jin, Alexander J. Pak, Yining Han, and Gregory A. Voth, "A new one-site coarse-grained model for water: Bottom-up many-body projected water (BUMPer). II. Temperature transferability and structural properties at low temperature," _Journal of Chemical Physics_, **154**, 044105 (2021).
 
 [![DOI](https://img.shields.io/badge/J.Chem.Phys.-10.1063/5.0026652-FA8072.svg)](https://doi.org/10.1063/5.0026652)
 
